@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "DustWebBuild.data.unityweb",
+"asmCodeUrl": "DustWebBuild.asm.code.unityweb",
+"asmMemoryUrl": "DustWebBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "DustWebBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
